@@ -1,7 +1,10 @@
 h1{color: blue;
 	text-align : center; text-anchor: end;
-margin: top :300px;left:200px;}
-marquee{ color: yellow ;}
+margin: top :300px;left:200px; font-size: 160%:;}
+p{color: yellow:;}
+marquee{ color: yellow ; box-sizing: 200px:;}
 h3{text-align: center;
 color: orange;font-size: 45}
+image{ position: left:; }
+
 
